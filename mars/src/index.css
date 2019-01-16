@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: url('http://en.es-static.us/upl/2018/11/mars-landing-curiosity-artist-e1543073738523.jpeg') no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.title {
+  background: -webkit-linear-gradient(#8e0e00, #1f1c18)
+}
+
+.edit_name {
+  margin: 10px;
+  margin-top: 10px;
+  font-weight: bold;
+  border: 1px solid black;
+  height: 35px;
+}
+
+.date_of_birth {
+  margin: 10px;
+  margin-top: 30px;
+  font-weight: bold;
+  border: 1px solid black;
+  height: 35px;
+}
+
+.country_of_origin {
+  margin: 10px;
+  margin-top: 30px;
+  font-weight: bold;
+  border: 1px solid black;
+  height: 35px;
+}
+
+.edit_dietary {
+  margin: 10px;
+  margin-top: 30px;
+  font-weight: bold;
+  border: 1px solid black;
+  height: 35px;
+}
+
+.input_box {
+  margin: 10px;
+  margin-top: 30px;
+  font-weight: bold;
+  border: 1px solid black;
+  height: 250px;
+}
+
+.edit_why {
+  margin: 10px;
+  width: 400px;
+  height: 300px;
+  font-weight: bold;
+  border: 1px solid black;
+  height: 35px;
+}
+
+.submit_button {
+  margin: 10px;
+  margin-top: 30px;
+  font-weight: bold;
+  height: 100px;
+  font-size: 40px;
+}
+
+.button {
+  margin: 10px;
+  height: 50px;
+  width: 90px;
+  color: red
+}
+
+.text_area {
+  margin: 10px;
+  height: 200px;
+  width: 600px;
+  font-weight: bold;
+}
+
+.questions {
+  margin: 10px;
+  font-weight: bold;
+}
+
+.question1, .question4, .question5, .question6 {
+  margin: 10px;
+  border: 1px solid black;
+  height: 150px;
+}
+
+ .question2 {
+   margin: 10px;
+   border: 1px solid black;
+   height: 130px;
+ }
+
+.question3 {
+  margin: 10px;
+  border: 1px solid black;
+  height: 195px;
+}
+
+.question7 {
+  margin: 10px;
+  border: 1px solid black;
+  height: 220px;
+}
